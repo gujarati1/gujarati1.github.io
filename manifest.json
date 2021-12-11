@@ -1,6 +1,6 @@
 {
-    "name": "find_chruch",
-    "short_name": "find_chruch",
+    "name": "flutter_church_app_1",
+    "short_name": "flutter_church_app_1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
