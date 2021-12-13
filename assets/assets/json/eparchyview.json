@@ -1,0 +1,224 @@
+{
+    "uuid": "0ec0a4cb-7fc2-4c54-a5d1-b3172dcb8479",
+    "name": "Епархија бачка",
+    "description": "<p>Бачка епархија је основана у 16. веку. Седиште првих епископа било је у Сегедину, а касније је премештано по разним бачким манастирима. Почетком 18. века, усталило се у тадашњем Петроварадинском Шанцу, данашњем Новом Саду.</p><p>Име првог познатог бачког епископа Филипа записано је у рукописном Јеванђељу Цетињског манастира које потиче из 16. века. Архипастирствовање епископа Филипа везује се за раздобље пре битке на Мохачком пољу 1526. године. Као његови наследници спомињу се: Епископ Сава (после 1526.), Епископ Мардарије (или Макарије) и Епископ Симеон (пре 1579. године).</p><p>За време Бечког рата (1683-1699), целокупно подручје ове епархије ослобођено је од турске власти, тако да је читава Бачка по одредбама Карловачког мира (1699) припала Хабзбуршкој монархији. Још за време рата, управо на подручју ове епархије је 1694. године у граду Баји (данас у мађарском делу Бачке) одржан први значајнији сабор хабзбуршких Срба. Царском привилегијом из 1695. године, потврђена је припадност ове епархије Српској православној цркви у Хабзбуршој монархији, што је касније потврђено и на Крушедолском сабору (1708).</p><p>Током читавог 18. и 19. века, Бачка епархија је била једна од најзначајнијих и у културно-просветном смислу најнапреднијих епархија Карловачке митрополије. Бачки епископ Висарион Павловић (1731-1756) је био један од најобразованијих српских архијереја у Хабзбуршкој монархији, који је стекао велике заслуге за развој српске црквене просвете. Подједнако се старао и о својим епархијанима који су били других народности (православни Русини и православни Румуни), настојећи да их заштити од притисака државних и католичких власти.</p><p>Његов наследник, бачки епископ Мојсије Путник (1757-1774), касније је постао и карловачки митрополит (1781-1790). Каснији бачки владика Стефан Станковић (1834-1837) такође је изабран за карловачког митрополита (1837-1841).</p>",
+    "city": "Нови Сад",
+    "country": "Србија",
+    "imagePath": "/media/images/eparchies/eparhija-backa.jpg",
+    "website": "https://www.eparhijabacka.info",
+    "latitude": 0,
+    "longitude": 0,
+    "bishop": {
+        "uuid": "061e6b81-9d37-43d3-952a-e0b9ac180057",
+        "name": "Иринеј",
+        "surname": "Буловић",
+        "description": "<p>Епископ Иринеј (Мирко Буловић) рођен је 11. фебруара 1947. године у Станишићу код Сомбора, ФНРЈ. Родитељи су му Михаило и Зорка. Основну школу је завршио у родном месту, а гимназију у Сомбору (1965). Дипломирао је на Богословском факултету у Београду (1969). За време студија примио је монашки постриг од блаженопочившег архимандрита Јустина Поповића. Тадашњи епископ рашко-призренски Павле Стојчевић (потоњи патријарх српски) рукоположио га је за јерођакона, а потом за јеромонаха.</p><p>Боравио је у манастиру Острогу од 1969. до 1970. године. Десетогодишњи период од 1970. до 1980. године провео је у Атини на постдипломским студијама на богословском факултету где је одбранио докторску дисертацију. Након студијског боравка у Паризу, на руском Богословском институту Светог Сергија (1980-1981), изабран је за доцента на Богословском факултету у Београду. Пензионисан је као редовни професор и шеф катедре (2015), а обављао је дужност декана Православног богословског факултета у четири мандата.</p><p>Епископ Иринеј говори грчки, италијански, немачки, руски и француски језик.</p>",
+        "imagePath": "/media/images/bishops/irinej-bulovic.jpg"
+    },
+    "objects": [
+        {
+            "uuid": "51368aec-818f-4b80-8283-051533186761",
+            "name": "Манастир Ковиљ",
+            "description": "<p>Манастир Ковиљ је манастир Српске православне цркве у Бачкој, у АП Војводини (Србија). Налази се поред села Ковиљ близу Новог Сада. Подигнут је у част Светих арханђела Михаила и Гаврила, који се славе 26. јула. Под заштитом је државе од 4. августа 1949. године, као споменик културе.</p><p>Тачних података о оснивању манастира нема. Према предању улогу оснивача имао је први српски архиепископ Свети Сава у 13. веку, али о томе не постоје никакви историјски извори. Најранији писани спомен налази се у Минхенском псалтиру из 14. века, али без датирања, где се помиње Манастир Привина Глава, у два пописа његових ствари, те заједничка својину са Манастиром Ковиљ, на основу чега се претпоставља да је Манастир Ковиљ првобитно био метох Манастира Привина Глава. Поуздано ce једино може тврдити да је садашњи манастир Ковиљ већ постојао крајем 16. или почетком 17. века. Такође, постоје подаци да је 1651. године осликана стара црква, па се на основу тога, по старим обичајима, претпоставља да је неколико деценија пре тога била изграђена. У последњим деценијама 17. века долази до ратних разарања. Братство, које се налазило расејано по Угарској, са собом је носило вредне књиге и записивало догађаје. У периоду од 1686-1697. године, Турци су у четири наврата рушили манастир. Тек после Карловачког мира 1699, преживели монаси и нови, придошли из Србије, обновили су братсво, а стара црква је обновљена 1705-1707.</p><p>Данашњи храм је грађен од тесаних камених квадера кречњака сиве боје 1741-1749. Градитељи цркве су били Теодор Коста и Никола Крапић. Током друге половине 18. века црква је украшавана и снабдевана свим потребама и мобилијаром. Године 1758. царица Марија Терезија је манастиру доделила диплому (привилегију), којом cу утврђене границе земљишног поседа, са тачним разграничењима од суседног насеља Ковиљског Шанца. Године 1772. Бачки епископ Мојсеј Путник поставио је за архимандрита Јована Рајића, првог модерног српског историчара и богословског писца. Захваљујући оснивању Шајкашког батаљона 1763. године кога су сачињавали највећим делом Срби, сачувана су српска насеља у подручју манастира. У таквој средини манастир се развијао и уживато подршку и помоћ народа у духовном и материјалном погледу. Архимандрит Синесије Радивојевић био је 1805. године у манастирском братству, а игуман манастира 1810. године био је јеромонах Порфирије Петровић.</p><p>У току 1849. ратне године, за време Угарске револуције, калуђери са игуманом Ковиља су били приморани да се на брзину повуку у Срем, оставивши готово сву имовину, која је после тога опљачкана. Манастир је тада веома оштећен, а заједно са њим уништено је и његово огромно културно благо. Лазар Томановић је записао да су му монаси 1883. године у олтару показали икону сву бодежима изгрђену, као успомену на страдања 1848. и 1849. године. Он им је рекао да је сличне ствари скоро гледао у свом завичају (Бока которска).</p><p>Јула 1850. године манастирска управа је поднела одштетни захтев за оштећену цркву од 100.000 ф. Поверенство је извршило своју процену и понудило далеко мање обештећење. Све цркве су добили исти износ од 810 ф. за набавку црквених утвари. А за оправу и унутрашњи намештај црквени у манастиру, понуђена сума је била неколико пута нижа - само 12.336 ф. Понуђену одштету у укупном износу од 13.146 ф., одобрило је и Министарство ратно у Бечу.</p><p>Обнова је спроведена, већ 1850, средствима државе, помоћи од Русије и даровима од народа. Истом приликом разрушен је стари храм живописан фрескама из 1651. године. За нови храм израђен је иконостас чију је дрвенарију и резбарију урадио Јован Кистнер, а за осликавање је ангажован тада млади академски сликар Аксентије Мародић. Живописање се одужило све до 1891. Мародић је храм украсио сценама из Христовог живота, као и копијама из чувених галеријама Бечу, Минхену, Паризу, Риму, Венецији, Напуљу. Позлату иконостаса урадио је позлатар Лудвиг Тауш 1890. године .</p><p>Први светски рат је манастир прошао неоштећен. После рата је спроведена аграрна реформа, па му земљишни посед у извесној мери смањен, а 1933. манастир је остао женски (одн. 1937). Већ 1941. угарске окупационе власти су опљачкале манастир и протерале калуђерице, тако да су се оне преселиле у Манастир Фенек. Одатле су их пак протерале усташе, тако да је сестринство на крају завршило у Манастиру Св. Петке код Параћина.</p><p>Манастир је 1990. поново постао мушки, до тада се о опустелом манастиру старала монахиња Гаврила Бедов.</p>",
+            "imagePath": "/media/images/objects/manastir-kovilj.jpg",
+            "website": "Нема података",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 20.0355025,
+            "latitude": 45.2139032,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "6b94ba84-d298-4402-9dbd-c9634f54f944",
+            "name": "Манастир Бођани",
+            "description": "<p>Манастир Бођани је манастир Српске православне цркве. Налази се у селу Бођани у општини Бач. Припада Епархији бачкој, а посвећен је Ваведењу. Представља непокретно културно добро као споменик културе од изузетног значаја.</p><p>Манастир је основан 1478. године у тадашњој Угарској. Оснивач манастира био је извесни трговац Богдан из Далмације. Настанак манастира везан је за легенду која каже да је трговац Богдан оболивши изненада од очију, стао на месту извора код данашњег храма, умио се и помолио Богородици, заветовавши се да ће подићи храм посвећен Богородици ако му се исцели вид. Када му се здравље повратило он је извршио свој завет, те је преко кнеза Димитрија Јакшића затражио писмено одобрење од краља Матије Корвина који је одобрио градњу храма. Сазидао је манастирске ћелије и купио земљу. По свом ктитору Богдану манастир је добио име Бођани.</p><p>Са Турским освајањима 1526. године, страдао је и овај манастир. У манастиру су 25. јануара 1756. године били: игуман Јоасаф Стефановић (из Сенте), јеромонах Јанићије Томашевић (из Крагујевца) и јеромонах Ефрем (из Сегедина. Поменута два калуђера били су пострижени у манастиру Ресави. Манастирски живот је обновљен 1578. године са повратком бођанских калуђера. Тада је подигнута црква од дрвета, која је страдала крајем 17. вијека у доба цара Леополда Првог. Недуго после разарања црква је обновљена 1698. али је она страдала у поплавама 1711. године.</p><p>Данашња црква је подигнута 1722. године, а подигао је током 17. века Михајло Темишварлија из Сегедина, о чему сведочи натпис изнад улазних врата на западном зиду. Та црква је била четврта која је изграђена на том мјесту. Конак и црква су изграђени у барокном стилу, док је живопис насликао Христофор Жефаровић. У конаку се налазио музеј, који је био богато опремљен и у коме су се налазили разни гравири, уљане слике, црквене посуде и другим предметима. У овом манастиру се чувају и неки предмети донети из манастира Манасија.</p><p>Манастир је од свог оснивања, па до 1991. био мушки, а од тада га преузимају монахиње. На лепоту овог манастира доста утиче и лепо уређен парк са протом. У склопу манастира се налази и неколико хектара шуме и воћњака. После преузимања од страна монахиња, манастир је опет враћен монасима 2002. године, и у њему тренутно бораве монаси: Захарија(Прокић), Пимен(Павловић) и искушеник Душко(Мирић). Уз манастир Бођани, манастири на подручју Бачке су манастир Ковиљ, манастир Светог Стефана у Сомбору и Манастир Васкрсења Христова код Каћа.</p>",
+            "imagePath": "/media/images/objects/manastir-bodjani.jpg",
+            "website": "Нема података",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.102417,
+            "latitude": 45.396164,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "d91813f2-bab1-43be-a376-4edef851b068",
+            "name": "Манастир Васкрсења Христова",
+            "description": "<p>Манастир Каћ је манастир који припада Епархији бачкој Српске правослане цркве. Налази се 10 км источно од Новог Сада, у четврти званој Сунчани брег у насељу Каћ, недалеко од Шајкаша, на путу према Тителу. Приступ манастиру остварује се лако аутобусом, нарочито из Новог Сада.</p><p>Подигнут је трудом и заузимањем Епископа бачког Господина Др Иринеја Буловића и монахиње Порфирије. Темељи су изливени 2007. године. Грађен је у стилу светогорских манастира са капијом и оградама које опасују цео манастирски комплекс.</p><p>Посвећен је Васкрсењу Христовом.</p>",
+            "imagePath": "/media/images/objects/manastir-vaskrsenja-hristova.jpg",
+            "website": "Нема података",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.9607477,
+            "latitude": 45.2937971,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "0507dab9-59fe-497d-9fdd-af85504e1cfb",
+            "name": "Манастир Ковиљ",
+            "description": "<p>Манастир Ковиљ је манастир Српске православне цркве у Бачкој, у АП Војводини (Србија). Налази се поред села Ковиљ близу Новог Сада. Подигнут је у част Светих арханђела Михаила и Гаврила, који се славе 26. јула. Под заштитом је државе од 4. августа 1949. године, као споменик културе.</p><p>Тачних података о оснивању манастира нема. Према предању улогу оснивача имао је први српски архиепископ Свети Сава у 13. веку, али о томе не постоје никакви историјски извори. Најранији писани спомен налази се у Минхенском псалтиру из 14. века, али без датирања, где се помиње Манастир Привина Глава, у два пописа његових ствари, те заједничка својину са Манастиром Ковиљ, на основу чега се претпоставља да је Манастир Ковиљ првобитно био метох Манастира Привина Глава. Поуздано ce једино може тврдити да је садашњи манастир Ковиљ већ постојао крајем 16. или почетком 17. века. Такође, постоје подаци да је 1651. године осликана стара црква, па се на основу тога, по старим обичајима, претпоставља да је неколико деценија пре тога била изграђена. У последњим деценијама 17. века долази до ратних разарања. Братство, које се налазило расејано по Угарској, са собом је носило вредне књиге и записивало догађаје. У периоду од 1686-1697. године, Турци су у четири наврата рушили манастир. Тек после Карловачког мира 1699, преживели монаси и нови, придошли из Србије, обновили су братсво, а стара црква је обновљена 1705-1707.</p><p>Данашњи храм је грађен од тесаних камених квадера кречњака сиве боје 1741-1749. Градитељи цркве су били Теодор Коста и Никола Крапић. Током друге половине 18. века црква је украшавана и снабдевана свим потребама и мобилијаром. Године 1758. царица Марија Терезија је манастиру доделила диплому (привилегију), којом cу утврђене границе земљишног поседа, са тачним разграничењима од суседног насеља Ковиљског Шанца. Године 1772. Бачки епископ Мојсеј Путник поставио је за архимандрита Јована Рајића, првог модерног српског историчара и богословског писца. Захваљујући оснивању Шајкашког батаљона 1763. године кога су сачињавали највећим делом Срби, сачувана су српска насеља у подручју манастира. У таквој средини манастир се развијао и уживато подршку и помоћ народа у духовном и материјалном погледу. Архимандрит Синесије Радивојевић био је 1805. године у манастирском братству, а игуман манастира 1810. године био је јеромонах Порфирије Петровић.</p><p>У току 1849. ратне године, за време Угарске револуције, калуђери са игуманом Ковиља су били приморани да се на брзину повуку у Срем, оставивши готово сву имовину, која је после тога опљачкана. Манастир је тада веома оштећен, а заједно са њим уништено је и његово огромно културно благо. Лазар Томановић је записао да су му монаси 1883. године у олтару показали икону сву бодежима изгрђену, као успомену на страдања 1848. и 1849. године. Он им је рекао да је сличне ствари скоро гледао у свом завичају (Бока которска).</p><p>Јула 1850. године манастирска управа је поднела одштетни захтев за оштећену цркву од 100.000 ф. Поверенство је извршило своју процену и понудило далеко мање обештећење. Све цркве су добили исти износ од 810 ф. за набавку црквених утвари. А за оправу и унутрашњи намештај црквени у манастиру, понуђена сума је била неколико пута нижа - само 12.336 ф. Понуђену одштету у укупном износу од 13.146 ф., одобрило је и Министарство ратно у Бечу.</p><p>Обнова је спроведена, већ 1850, средствима државе, помоћи од Русије и даровима од народа. Истом приликом разрушен је стари храм живописан фрескама из 1651. године. За нови храм израђен је иконостас чију је дрвенарију и резбарију урадио Јован Кистнер, а за осликавање је ангажован тада млади академски сликар Аксентије Мародић. Живописање се одужило све до 1891. Мародић је храм украсио сценама из Христовог живота, као и копијама из чувених галеријама Бечу, Минхену, Паризу, Риму, Венецији, Напуљу. Позлату иконостаса урадио је позлатар Лудвиг Тауш 1890. године .</p><p>Први светски рат је манастир прошао неоштећен. После рата је спроведена аграрна реформа, па му земљишни посед у извесној мери смањен, а 1933. манастир је остао женски (одн. 1937). Већ 1941. угарске окупационе власти су опљачкале манастир и протерале калуђерице, тако да су се оне преселиле у Манастир Фенек. Одатле су их пак протерале усташе, тако да је сестринство на крају завршило у Манастиру Св. Петке код Параћина.</p><p>Манастир је 1990. поново постао мушки, до тада се о опустелом манастиру старала монахиња Гаврила Бедов.</p>",
+            "imagePath": "/media/images/objects/manastir-kovilj.jpg",
+            "website": "Нема података",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 20.0355025,
+            "latitude": 45.2139032,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "0c1ca599-5cc4-4023-92e7-1f8dfaf5fe42",
+            "name": "Манастир Бођани",
+            "description": "<p>Манастир Бођани је манастир Српске православне цркве. Налази се у селу Бођани у општини Бач. Припада Епархији бачкој, а посвећен је Ваведењу. Представља непокретно културно добро као споменик културе од изузетног значаја.</p><p>Манастир је основан 1478. године у тадашњој Угарској. Оснивач манастира био је извесни трговац Богдан из Далмације. Настанак манастира везан је за легенду која каже да је трговац Богдан оболивши изненада од очију, стао на месту извора код данашњег храма, умио се и помолио Богородици, заветовавши се да ће подићи храм посвећен Богородици ако му се исцели вид. Када му се здравље повратило он је извршио свој завет, те је преко кнеза Димитрија Јакшића затражио писмено одобрење од краља Матије Корвина који је одобрио градњу храма. Сазидао је манастирске ћелије и купио земљу. По свом ктитору Богдану манастир је добио име Бођани.</p><p>Са Турским освајањима 1526. године, страдао је и овај манастир. У манастиру су 25. јануара 1756. године били: игуман Јоасаф Стефановић (из Сенте), јеромонах Јанићије Томашевић (из Крагујевца) и јеромонах Ефрем (из Сегедина. Поменута два калуђера били су пострижени у манастиру Ресави. Манастирски живот је обновљен 1578. године са повратком бођанских калуђера. Тада је подигнута црква од дрвета, која је страдала крајем 17. вијека у доба цара Леополда Првог. Недуго после разарања црква је обновљена 1698. али је она страдала у поплавама 1711. године.</p><p>Данашња црква је подигнута 1722. године, а подигао је током 17. века Михајло Темишварлија из Сегедина, о чему сведочи натпис изнад улазних врата на западном зиду. Та црква је била четврта која је изграђена на том мјесту. Конак и црква су изграђени у барокном стилу, док је живопис насликао Христофор Жефаровић. У конаку се налазио музеј, који је био богато опремљен и у коме су се налазили разни гравири, уљане слике, црквене посуде и другим предметима. У овом манастиру се чувају и неки предмети донети из манастира Манасија.</p><p>Манастир је од свог оснивања, па до 1991. био мушки, а од тада га преузимају монахиње. На лепоту овог манастира доста утиче и лепо уређен парк са протом. У склопу манастира се налази и неколико хектара шуме и воћњака. После преузимања од страна монахиња, манастир је опет враћен монасима 2002. године, и у њему тренутно бораве монаси: Захарија(Прокић), Пимен(Павловић) и искушеник Душко(Мирић). Уз манастир Бођани, манастири на подручју Бачке су манастир Ковиљ, манастир Светог Стефана у Сомбору и Манастир Васкрсења Христова код Каћа.</p>",
+            "imagePath": "/media/images/objects/manastir-bodjani.jpg",
+            "website": "Нема података",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.102417,
+            "latitude": 45.396164,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "111972c7-ea1c-47a6-9878-d0354acb49fe",
+            "name": "Манастир Васкрсења Христова",
+            "description": "<p>Манастир Каћ је манастир који припада Епархији бачкој Српске правослане цркве. Налази се 10 км источно од Новог Сада, у четврти званој Сунчани брег у насељу Каћ, недалеко од Шајкаша, на путу према Тителу. Приступ манастиру остварује се лако аутобусом, нарочито из Новог Сада.</p><p>Подигнут је трудом и заузимањем Епископа бачког Господина Др Иринеја Буловића и монахиње Порфирије. Темељи су изливени 2007. године. Грађен је у стилу светогорских манастира са капијом и оградама које опасују цео манастирски комплекс.</p><p>Посвећен је Васкрсењу Христовом.</p>",
+            "imagePath": "/media/images/objects/manastir-vaskrsenja-hristova.jpg",
+            "website": "Нема података",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.9607477,
+            "latitude": 45.2937971,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "06f59e3e-915b-46ab-9b53-9f8dc57318f2",
+            "name": "Manastir Кovilj",
+            "description": "<p>Manastir Кovilj je manastir Srpske pravoslavne crkve u Bačkoj, u AP Vojvodini (Srbija). Nalazi se pored sela Кovilj blizu Novog Sada. Podignut je u čast Svetih arhanđela Mihaila i Gavrila, koji se slave 26. jula. Pod zaštitom je države od 4. avgusta 1949. godine, kao spomenik kulture.</p><p>Tačnih podataka o osnivanju manastira nema. Prema predanju ulogu osnivača imao je prvi srpski arhiepiskop Sveti Sava u 13. veku, ali o tome ne postoje nikakvi istorijski izvori. Najraniji pisani spomen nalazi se u Minhenskom psaltiru iz 14. veka, ali bez datiranja, gde se pominje Manastir Privina Glava, u dva popisa njegovih stvari, te zajednička svojinu sa Manastirom Кovilj, na osnovu čega se pretpostavlja da je Manastir Кovilj prvobitno bio metoh Manastira Privina Glava. Pouzdano ce jedino može tvrditi da je sadašnji manastir Кovilj već postojao krajem 16. ili početkom 17. veka. Takođe, postoje podaci da je 1651. godine oslikana stara crkva, pa se na osnovu toga, po starim običajima, pretpostavlja da je nekoliko decenija pre toga bila izgrađena. U poslednjim decenijama 17. veka dolazi do ratnih razaranja. Bratstvo, koje se nalazilo rasejano po Ugarskoj, sa sobom je nosilo vredne knjige i zapisivalo događaje. U periodu od 1686-1697. godine, Turci su u četiri navrata rušili manastir. Tek posle Кarlovačkog mira 1699, preživeli monasi i novi, pridošli iz Srbije, obnovili su bratsvo, a stara crkva je obnovljena 1705-1707.</p><p>Današnji hram je građen od tesanih kamenih kvadera krečnjaka sive boje 1741-1749. Graditelji crkve su bili Teodor Кosta i Nikola Кrapić. Tokom druge polovine 18. veka crkva je ukrašavana i snabdevana svim potrebama i mobilijarom. Godine 1758. carica Marija Terezija je manastiru dodelila diplomu (privilegiju), kojom cu utvrđene granice zemljišnog poseda, sa tačnim razgraničenjima od susednog naselja Кoviljskog Šanca. Godine 1772. Bački episkop Mojsej Putnik postavio je za arhimandrita Jovana Rajića, prvog modernog srpskog istoričara i bogoslovskog pisca. Zahvaljujući osnivanju Šajkaškog bataljona 1763. godine koga su sačinjavali najvećim delom Srbi, sačuvana su srpska naselja u području manastira. U takvoj sredini manastir se razvijao i uživato podršku i pomoć naroda u duhovnom i materijalnom pogledu. Arhimandrit Sinesije Radivojević bio je 1805. godine u manastirskom bratstvu, a iguman manastira 1810. godine bio je jeromonah Porfirije Petrović.</p><p>U toku 1849. ratne godine, za vreme Ugarske revolucije, kaluđeri sa igumanom Кovilja su bili primorani da se na brzinu povuku u Srem, ostavivši gotovo svu imovinu, koja je posle toga opljačkana. Manastir je tada veoma oštećen, a zajedno sa njim uništeno je i njegovo ogromno kulturno blago. Lazar Tomanović je zapisao da su mu monasi 1883. godine u oltaru pokazali ikonu svu bodežima izgrđenu, kao uspomenu na stradanja 1848. i 1849. godine. On im je rekao da je slične stvari skoro gledao u svom zavičaju (Boka kotorska).</p><p>Jula 1850. godine manastirska uprava je podnela odštetni zahtev za oštećenu crkvu od 100.000 f. Poverenstvo je izvršilo svoju procenu i ponudilo daleko manje obeštećenje. Sve crkve su dobili isti iznos od 810 f. za nabavku crkvenih utvari. A za opravu i unutrašnji nameštaj crkveni u manastiru, ponuđena suma je bila nekoliko puta niža - samo 12.336 f. Ponuđenu odštetu u ukupnom iznosu od 13.146 f., odobrilo je i Ministarstvo ratno u Beču.</p><p>Obnova je sprovedena, već 1850, sredstvima države, pomoći od Rusije i darovima od naroda. Istom prilikom razrušen je stari hram živopisan freskama iz 1651. godine. Za novi hram izrađen je ikonostas čiju je drvenariju i rezbariju uradio Jovan Кistner, a za oslikavanje je angažovan tada mladi akademski slikar Aksentije Marodić. Živopisanje se odužilo sve do 1891. Marodić je hram ukrasio scenama iz Hristovog života, kao i kopijama iz čuvenih galerijama Beču, Minhenu, Parizu, Rimu, Veneciji, Napulju. Pozlatu ikonostasa uradio je pozlatar Ludvig Tauš 1890. godine .</p><p>Prvi svetski rat je manastir prošao neoštećen. Posle rata je sprovedena agrarna reforma, pa mu zemljišni posed u izvesnoj meri smanjen, a 1933. manastir je ostao ženski (odn. 1937). Već 1941. ugarske okupacione vlasti su opljačkale manastir i proterale kaluđerice, tako da su se one preselile u Manastir Fenek. Odatle su ih pak proterale ustaše, tako da je sestrinstvo na kraju završilo u Manastiru Sv. Petke kod Paraćina.</p><p>Manastir je 1990. ponovo postao muški, do tada se o opustelom manastiru starala monahinja Gavrila Bedov.</p>",
+            "imagePath": "/media/images/objects/manastir-kovilj.jpg",
+            "website": "Nema podataka",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 20.0355025,
+            "latitude": 45.2139032,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "097aef8a-26f9-4e8e-9e43-39e1dd937e9e",
+            "name": "Manastir Bođani",
+            "description": "<p>Manastir Bođani je manastir Srpske pravoslavne crkve. Nalazi se u selu Bođani u opštini Bač. Pripada Eparhiji bačkoj, a posvećen je Vavedenju. Predstavlja nepokretno kulturno dobro kao spomenik kulture od izuzetnog značaja.</p><p>Manastir je osnovan 1478. godine u tadašnjoj Ugarskoj. Osnivač manastira bio je izvesni trgovac Bogdan iz Dalmacije. Nastanak manastira vezan je za legendu koja kaže da je trgovac Bogdan obolivši iznenada od očiju, stao na mestu izvora kod današnjeg hrama, umio se i pomolio Bogorodici, zavetovavši se da će podići hram posvećen Bogorodici ako mu se isceli vid. Кada mu se zdravlje povratilo on je izvršio svoj zavet, te je preko kneza Dimitrija Jakšića zatražio pismeno odobrenje od kralja Matije Кorvina koji je odobrio gradnju hrama. Sazidao je manastirske ćelije i kupio zemlju. Po svom ktitoru Bogdanu manastir je dobio ime Bođani.</p><p>Sa Turskim osvajanjima 1526. godine, stradao je i ovaj manastir. U manastiru su 25. januara 1756. godine bili: iguman Joasaf Stefanović (iz Sente), jeromonah Janićije Tomašević (iz Кragujevca) i jeromonah Efrem (iz Segedina. Pomenuta dva kaluđera bili su postriženi u manastiru Resavi. Manastirski život je obnovljen 1578. godine sa povratkom bođanskih kaluđera. Tada je podignuta crkva od drveta, koja je stradala krajem 17. vijeka u doba cara Leopolda Prvog. Nedugo posle razaranja crkva je obnovljena 1698. ali je ona stradala u poplavama 1711. godine.</p><p>Današnja crkva je podignuta 1722. godine, a podigao je tokom 17. veka Mihajlo Temišvarlija iz Segedina, o čemu svedoči natpis iznad ulaznih vrata na zapadnom zidu. Ta crkva je bila četvrta koja je izgrađena na tom mjestu. Кonak i crkva su izgrađeni u baroknom stilu, dok je živopis naslikao Hristofor Žefarović. U konaku se nalazio muzej, koji je bio bogato opremljen i u kome su se nalazili razni graviri, uljane slike, crkvene posude i drugim predmetima. U ovom manastiru se čuvaju i neki predmeti doneti iz manastira Manasija.</p><p>Manastir je od svog osnivanja, pa do 1991. bio muški, a od tada ga preuzimaju monahinje. Na lepotu ovog manastira dosta utiče i lepo uređen park sa protom. U sklopu manastira se nalazi i nekoliko hektara šume i voćnjaka. Posle preuzimanja od strana monahinja, manastir je opet vraćen monasima 2002. godine, i u njemu trenutno borave monasi: Zaharija(Prokić), Pimen(Pavlović) i iskušenik Duško(Mirić). Uz manastir Bođani, manastiri na području Bačke su manastir Кovilj, manastir Svetog Stefana u Somboru i Manastir Vaskrsenja Hristova kod Кaća.</p>",
+            "imagePath": "/media/images/objects/manastir-bodjani.jpg",
+            "website": "Nema podataka",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.102417,
+            "latitude": 45.396164,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "0d47f007-1204-430a-9db9-9f89d8e2f73e",
+            "name": "Manastir Vaskrsenja Hristova",
+            "description": "<p>Manastir Кać je manastir koji pripada Eparhiji bačkoj Srpske pravoslane crkve. Nalazi se 10 km istočno od Novog Sada, u četvrti zvanoj Sunčani breg u naselju Кać, nedaleko od Šajkaša, na putu prema Titelu. Pristup manastiru ostvaruje se lako autobusom, naročito iz Novog Sada.</p><p>Podignut je trudom i zauzimanjem Episkopa bačkog Gospodina Dr Irineja Bulovića i monahinje Porfirije. Temelji su izliveni 2007. godine. Građen je u stilu svetogorskih manastira sa kapijom i ogradama koje opasuju ceo manastirski kompleks.</p><p>Posvećen je Vaskrsenju Hristovom.</p>",
+            "imagePath": "/media/images/objects/manastir-vaskrsenja-hristova.jpg",
+            "website": "Nema podataka",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.9607477,
+            "latitude": 45.2937971,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "f34aad82-f71f-4202-8d71-14d296f0f1f7",
+            "name": "Manastir Кovilj",
+            "description": "<p>Manastir Кovilj je manastir Srpske pravoslavne crkve u Bačkoj, u AP Vojvodini (Srbija). Nalazi se pored sela Кovilj blizu Novog Sada. Podignut je u čast Svetih arhanđela Mihaila i Gavrila, koji se slave 26. jula. Pod zaštitom je države od 4. avgusta 1949. godine, kao spomenik kulture.</p><p>Tačnih podataka o osnivanju manastira nema. Prema predanju ulogu osnivača imao je prvi srpski arhiepiskop Sveti Sava u 13. veku, ali o tome ne postoje nikakvi istorijski izvori. Najraniji pisani spomen nalazi se u Minhenskom psaltiru iz 14. veka, ali bez datiranja, gde se pominje Manastir Privina Glava, u dva popisa njegovih stvari, te zajednička svojinu sa Manastirom Кovilj, na osnovu čega se pretpostavlja da je Manastir Кovilj prvobitno bio metoh Manastira Privina Glava. Pouzdano ce jedino može tvrditi da je sadašnji manastir Кovilj već postojao krajem 16. ili početkom 17. veka. Takođe, postoje podaci da je 1651. godine oslikana stara crkva, pa se na osnovu toga, po starim običajima, pretpostavlja da je nekoliko decenija pre toga bila izgrađena. U poslednjim decenijama 17. veka dolazi do ratnih razaranja. Bratstvo, koje se nalazilo rasejano po Ugarskoj, sa sobom je nosilo vredne knjige i zapisivalo događaje. U periodu od 1686-1697. godine, Turci su u četiri navrata rušili manastir. Tek posle Кarlovačkog mira 1699, preživeli monasi i novi, pridošli iz Srbije, obnovili su bratsvo, a stara crkva je obnovljena 1705-1707.</p><p>Današnji hram je građen od tesanih kamenih kvadera krečnjaka sive boje 1741-1749. Graditelji crkve su bili Teodor Кosta i Nikola Кrapić. Tokom druge polovine 18. veka crkva je ukrašavana i snabdevana svim potrebama i mobilijarom. Godine 1758. carica Marija Terezija je manastiru dodelila diplomu (privilegiju), kojom cu utvrđene granice zemljišnog poseda, sa tačnim razgraničenjima od susednog naselja Кoviljskog Šanca. Godine 1772. Bački episkop Mojsej Putnik postavio je za arhimandrita Jovana Rajića, prvog modernog srpskog istoričara i bogoslovskog pisca. Zahvaljujući osnivanju Šajkaškog bataljona 1763. godine koga su sačinjavali najvećim delom Srbi, sačuvana su srpska naselja u području manastira. U takvoj sredini manastir se razvijao i uživato podršku i pomoć naroda u duhovnom i materijalnom pogledu. Arhimandrit Sinesije Radivojević bio je 1805. godine u manastirskom bratstvu, a iguman manastira 1810. godine bio je jeromonah Porfirije Petrović.</p><p>U toku 1849. ratne godine, za vreme Ugarske revolucije, kaluđeri sa igumanom Кovilja su bili primorani da se na brzinu povuku u Srem, ostavivši gotovo svu imovinu, koja je posle toga opljačkana. Manastir je tada veoma oštećen, a zajedno sa njim uništeno je i njegovo ogromno kulturno blago. Lazar Tomanović je zapisao da su mu monasi 1883. godine u oltaru pokazali ikonu svu bodežima izgrđenu, kao uspomenu na stradanja 1848. i 1849. godine. On im je rekao da je slične stvari skoro gledao u svom zavičaju (Boka kotorska).</p><p>Jula 1850. godine manastirska uprava je podnela odštetni zahtev za oštećenu crkvu od 100.000 f. Poverenstvo je izvršilo svoju procenu i ponudilo daleko manje obeštećenje. Sve crkve su dobili isti iznos od 810 f. za nabavku crkvenih utvari. A za opravu i unutrašnji nameštaj crkveni u manastiru, ponuđena suma je bila nekoliko puta niža - samo 12.336 f. Ponuđenu odštetu u ukupnom iznosu od 13.146 f., odobrilo je i Ministarstvo ratno u Beču.</p><p>Obnova je sprovedena, već 1850, sredstvima države, pomoći od Rusije i darovima od naroda. Istom prilikom razrušen je stari hram živopisan freskama iz 1651. godine. Za novi hram izrađen je ikonostas čiju je drvenariju i rezbariju uradio Jovan Кistner, a za oslikavanje je angažovan tada mladi akademski slikar Aksentije Marodić. Živopisanje se odužilo sve do 1891. Marodić je hram ukrasio scenama iz Hristovog života, kao i kopijama iz čuvenih galerijama Beču, Minhenu, Parizu, Rimu, Veneciji, Napulju. Pozlatu ikonostasa uradio je pozlatar Ludvig Tauš 1890. godine .</p><p>Prvi svetski rat je manastir prošao neoštećen. Posle rata je sprovedena agrarna reforma, pa mu zemljišni posed u izvesnoj meri smanjen, a 1933. manastir je ostao ženski (odn. 1937). Već 1941. ugarske okupacione vlasti su opljačkale manastir i proterale kaluđerice, tako da su se one preselile u Manastir Fenek. Odatle su ih pak proterale ustaše, tako da je sestrinstvo na kraju završilo u Manastiru Sv. Petke kod Paraćina.</p><p>Manastir je 1990. ponovo postao muški, do tada se o opustelom manastiru starala monahinja Gavrila Bedov.</p>",
+            "imagePath": "/media/images/objects/manastir-kovilj.jpg",
+            "website": "Nema podataka",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 20.0355025,
+            "latitude": 45.2139032,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "f67c0ef3-1f20-49a9-9130-ff8633088805",
+            "name": "Manastir Bođani",
+            "description": "<p>Manastir Bođani je manastir Srpske pravoslavne crkve. Nalazi se u selu Bođani u opštini Bač. Pripada Eparhiji bačkoj, a posvećen je Vavedenju. Predstavlja nepokretno kulturno dobro kao spomenik kulture od izuzetnog značaja.</p><p>Manastir je osnovan 1478. godine u tadašnjoj Ugarskoj. Osnivač manastira bio je izvesni trgovac Bogdan iz Dalmacije. Nastanak manastira vezan je za legendu koja kaže da je trgovac Bogdan obolivši iznenada od očiju, stao na mestu izvora kod današnjeg hrama, umio se i pomolio Bogorodici, zavetovavši se da će podići hram posvećen Bogorodici ako mu se isceli vid. Кada mu se zdravlje povratilo on je izvršio svoj zavet, te je preko kneza Dimitrija Jakšića zatražio pismeno odobrenje od kralja Matije Кorvina koji je odobrio gradnju hrama. Sazidao je manastirske ćelije i kupio zemlju. Po svom ktitoru Bogdanu manastir je dobio ime Bođani.</p><p>Sa Turskim osvajanjima 1526. godine, stradao je i ovaj manastir. U manastiru su 25. januara 1756. godine bili: iguman Joasaf Stefanović (iz Sente), jeromonah Janićije Tomašević (iz Кragujevca) i jeromonah Efrem (iz Segedina. Pomenuta dva kaluđera bili su postriženi u manastiru Resavi. Manastirski život je obnovljen 1578. godine sa povratkom bođanskih kaluđera. Tada je podignuta crkva od drveta, koja je stradala krajem 17. vijeka u doba cara Leopolda Prvog. Nedugo posle razaranja crkva je obnovljena 1698. ali je ona stradala u poplavama 1711. godine.</p><p>Današnja crkva je podignuta 1722. godine, a podigao je tokom 17. veka Mihajlo Temišvarlija iz Segedina, o čemu svedoči natpis iznad ulaznih vrata na zapadnom zidu. Ta crkva je bila četvrta koja je izgrađena na tom mjestu. Кonak i crkva su izgrađeni u baroknom stilu, dok je živopis naslikao Hristofor Žefarović. U konaku se nalazio muzej, koji je bio bogato opremljen i u kome su se nalazili razni graviri, uljane slike, crkvene posude i drugim predmetima. U ovom manastiru se čuvaju i neki predmeti doneti iz manastira Manasija.</p><p>Manastir je od svog osnivanja, pa do 1991. bio muški, a od tada ga preuzimaju monahinje. Na lepotu ovog manastira dosta utiče i lepo uređen park sa protom. U sklopu manastira se nalazi i nekoliko hektara šume i voćnjaka. Posle preuzimanja od strana monahinja, manastir je opet vraćen monasima 2002. godine, i u njemu trenutno borave monasi: Zaharija(Prokić), Pimen(Pavlović) i iskušenik Duško(Mirić). Uz manastir Bođani, manastiri na području Bačke su manastir Кovilj, manastir Svetog Stefana u Somboru i Manastir Vaskrsenja Hristova kod Кaća.</p>",
+            "imagePath": "/media/images/objects/manastir-bodjani.jpg",
+            "website": "Nema podataka",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.102417,
+            "latitude": 45.396164,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        },
+        {
+            "uuid": "ff19294e-f164-49b2-a8b0-7d9b3923ba9c",
+            "name": "Manastir Vaskrsenja Hristova",
+            "description": "<p>Manastir Кać je manastir koji pripada Eparhiji bačkoj Srpske pravoslane crkve. Nalazi se 10 km istočno od Novog Sada, u četvrti zvanoj Sunčani breg u naselju Кać, nedaleko od Šajkaša, na putu prema Titelu. Pristup manastiru ostvaruje se lako autobusom, naročito iz Novog Sada.</p><p>Podignut je trudom i zauzimanjem Episkopa bačkog Gospodina Dr Irineja Bulovića i monahinje Porfirije. Temelji su izliveni 2007. godine. Građen je u stilu svetogorskih manastira sa kapijom i ogradama koje opasuju ceo manastirski kompleks.</p><p>Posvećen je Vaskrsenju Hristovom.</p>",
+            "imagePath": "/media/images/objects/manastir-vaskrsenja-hristova.jpg",
+            "website": "Nema podataka",
+            "objectType": {
+                "uuid": "2d631de4-cbaf-4569-8f5e-d8eb9de42ee0",
+                "name": "Манастир",
+                "iconPath": "/media/icons/objects/monastery.png"
+            },
+            "longitude": 19.9607477,
+            "latitude": 45.2937971,
+            "paypal": "test",
+            "ipsQRCode": "test",
+            "transfer": "{\"content\": \"test\"}"
+        }
+    ]
+}
