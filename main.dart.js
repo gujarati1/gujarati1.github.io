@@ -52816,7 +52816,7 @@ $S:515}
 N.DT.prototype={
 ah(){return new N.a08(C.p)}}
 N.a08.prototype={
-L(a,b){var s,r,q,p,o,n,m=null,l="Terms & Conditions",k="Privacy Policy",j="\xa9 Chooch Intelligence Technologies Co.",i="https://www.facebook.com/images/fb_icon_325x325.png",h=t.p
+L(a,b){var s,r,q,p,o,n,m=null,l="Terms & Conditions",k="Privacy Policy",j="\xa9 Eparchy.",i="https://www.facebook.com/images/fb_icon_325x325.png",h=t.p
 if(b.I(t.l).f.a.a<800){s=L.cb(l)
 r=s.gfh()
 s.dO$=C.n
